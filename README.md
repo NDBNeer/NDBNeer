@@ -5,7 +5,7 @@ Hi I'm Namrata Barot, I get to create things from the figment of my imagination 
 🔭 I’m currently working on on Everything related Mobile and Web.
 - 👯 I’m looking to collaborate on awesome opensource projects.
 
-![Coder] (https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif)
+![Coder](https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif)
 <!--
 **NDBNeer/NDBNeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
