@@ -1,10 +1,12 @@
 Hi there 👋
+
 I'm Namrata Barot, a passionate and dedicated software engineer who thrives on turning ideas into reality. I specialize in mobile and web development, always eager to design and create innovative solutions. My drive for excellence and creativity pushes me to learn and build continuously.
 
-🔭 Currently working on Mobile and web technologies, focusing on building scalable and impactful solutions.
+🔭 Currently working on Mobile and web technologies, focusing on building scalable and impactful solutions. 
+
 👯 Looking to collaborate on Exciting open-source projects that foster innovation and community-driven development.
 
-![Coder](https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif)
+![Coder](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFqNTBobDJnd3dzcnUwZGIxdzgxZG9wYTZ1czRxNnpwY3p4OTFmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ekjmhJUGHJm7FC4Juo/giphy.gif) 
 <!--
 **NDBNeer/NDBNeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
