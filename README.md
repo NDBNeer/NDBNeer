@@ -1,9 +1,8 @@
-### Hi there 👋
+Hi there 👋
+I'm Namrata Barot, a passionate and dedicated software engineer who thrives on turning ideas into reality. I specialize in mobile and web development, always eager to design and create innovative solutions. My drive for excellence and creativity pushes me to learn and build continuously.
 
-Hi I'm Namrata Barot, I get to create things from the figment of my imagination also I’m industrious to do my work, Moreover, Design and develop new things is my passion.
-
-- 🔭 I’m currently working on on Everything related Mobile and Web.
-- 👯 I’m looking to collaborate on awesome opensource projects.
+🔭 Currently working on Mobile and web technologies, focusing on building scalable and impactful solutions.
+👯 Looking to collaborate on Exciting open-source projects that foster innovation and community-driven development.
 
 ![Coder](https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif)
 <!--
